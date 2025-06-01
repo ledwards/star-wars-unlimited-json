@@ -5705,7 +5705,7 @@
         "Set": "SOR",
         "Number": "215",
         "Name": "Snapshot Reflexes",
-        "Type": "Event",
+        "Type": "Upgrade",
         "Aspects": [
             "Cunning"
         ],
