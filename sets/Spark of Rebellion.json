@@ -2545,7 +2545,8 @@
         "Subtitle": "Voice of the Rebellion",
         "Type": "Unit",
         "Aspects": [
-            "Command"
+            "Command",
+            "Heroism"
         ],
         "Traits": [
             "REBEL",
